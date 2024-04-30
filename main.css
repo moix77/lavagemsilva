@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6, p{
 .header {
     min-height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-                url("images/header.jpeg.avif") center/cover no-repeat;
+                url("header.jpeg.avif") center/cover no-repeat;
     background-position: center;
     background-size: cover;
     color: #fff;
