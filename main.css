@@ -732,7 +732,7 @@ blockquote span{
 }
 .header {
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/header.jpeg.avif") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("header.png") center/cover no-repeat;
     color: #fff;
     position: relative; /* Adiciona uma posição relativa para criar um contexto de posicionamento */
 }
